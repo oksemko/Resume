@@ -175,13 +175,14 @@ img {
 }
 
 .sidebarTitle {
+  width: 80%;
   font-weight: bold;
   /* color: var(--current-white-color); */
   color: rgba(0, 0, 0, 0.6);
   letter-spacing: 0.03em;
   padding: 15px;
   border-radius: 10px;
-      background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.6);
   background-image: linear-gradient(to left, rgb(9, 241, 184), rgb(0, 162, 255));
   margin-bottom: 30px;
 }
