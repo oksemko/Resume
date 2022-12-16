@@ -71,7 +71,7 @@ img {
 }
 
 .contentSection {
-  padding: 40px 80px;
+  padding: 40px 65px;
   flex-grow: 2;
   background-color:#bedbdd;
   /* background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/pat.svg');
@@ -161,7 +161,7 @@ img {
 .sidebar {
   background-color: var(--background-color);
   flex-grow: 1;
-  padding: 40px 15px;
+  padding: 25px 15px;
 }
 
 .imgWrapper {
