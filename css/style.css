@@ -71,7 +71,7 @@ img {
 }
 
 .contentSection {
-  padding: 40px 65px;
+  padding: 25px 33px;
   flex-grow: 2;
   background-color:#bedbdd;
   /* background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/pat.svg');
@@ -85,7 +85,7 @@ img {
 
 .title {
   font-size: 36px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
